@@ -1,6 +1,6 @@
 {
   "name": "GandiDNS",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "slug": "gandi-dns",
   "description": "Update Gandi dns zone",
   "url": "https://github.com/benlbrm/home-assistant-addons/",
