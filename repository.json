@@ -1,5 +1,5 @@
 {
-    "name": "Benlbrrm Home Assistant add-ons store",
-    "url": "https://github.com/benlbrm/home-assistant-addons",
-    "maintainer": "@benlbrm"
-  }
+    "name": "My Home Assistant add-ons",
+    "url": "https://github.com/nicolasvivien/home-assistant-addons",
+    "maintainer": "Nicolas Vivien <nicolasvivien>"
+}
