@@ -55,7 +55,7 @@ main() {
         bashio::log.debug "[GandiDns] - Gandi ip is ${gandi_ip}"
 
         if [ "${current_ip}" = "${gandi_ip}" ]; then
-            bashio::log.debug "[GandiDns] - IP's are correct"
+            bashio::log.info "[GandiDns] - IP's are correct (${current_ip})"
             sleep 600
         else
             bashio::log.info "[GandiDns] - Ip did not match, need an update (gandi_ip=${gandi_ip}, current_ip=${current_ip})"
